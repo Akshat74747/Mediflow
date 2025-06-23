@@ -6,7 +6,7 @@ class SchedulingAgent(Agent):
         super().__init__(name="scheduling_agent")
 
     def match_doctor(self, symptoms):
-        doctors = pd.read_csv(r'Data\doctors.csv')
+        doctors = pd.read_csv(r'Data/doctors.csv')
         for _, row in doctors.iterrows():
             specialties = [s.strip().lower() for s in row["specialties"].split(";")]
             if any(symptom.lower() in specialties for symptom in symptoms):
