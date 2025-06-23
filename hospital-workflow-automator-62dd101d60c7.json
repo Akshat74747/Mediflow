@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hospital-workflow-automator",
+  "private_key_id": "62dd101d60c79bf4858c7543f4cfddb3e6f0a10d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCNTtWksJ+2MrMc\niqYfVnk3muZgdp+w1isa1clsYk2yEMEfnBTeGBbo0dFnYwLOfFCerYXBtppsT4cn\nX6IzlS8B8WGM++7dgqiawWAJiwaRv/dluNg9soZx3EtxBF+LLiRnfz6B0We/7W4D\n1MD9qpcIPdHUMlx9fF7yjMlKTPlPPXHjGcS5yzu1z3EZLxaWLcatqfGol6IUX1ju\nN6hQTl4A45kP7WaEydGvaOfKfjCKcH1O8lPRIjqWmEtwgOsyUn+GAmXSTWM6fzsP\nvht4xBClFJOAfRIQvhgi1auIwti0kvcDuzikaCBCVlxWdcEHliG/BFO8srjCpzmX\nP44BYyOTAgMBAAECggEACe4f0l59IsMmVhuiN/KOOyueA+piJ32tcsnSSVURK7HE\nuJFx3/emaH8SLadGE7elvLjp/OZ1rKXcFBbC4cgakRLi7ZLowtVDPvjW5GTKNeTd\nIF9ghtlsXEUEYjFR+4hnE4TcIihSl6i6QfeqBkl+KpyZicVuPX1HeNkO7jNBk+Fd\nS5KN3uehSsT59oE3WdV7gefYcly0eFJieRlkx2NVANIMAd5fl8kpmP7YwiHXKjhT\na1nqxyc21Y47JBQV+oSnUl48VCsqQ98cWp8NPb2QceoLF5NaaC7ZsRoSuaURzn3I\nzAsn/JJ+LZaNaMRy1RPi58oHYHbu14VcMoCOPzblVQKBgQC+6LFG7Yh3tDaBKnvg\npwk87wLavc4Qi28vRsNDoMzSZoXlaWKOgaRAOC2qVyrNvpQbSshDjxqRIZagnBaT\nDbdDSVgRg1R5kzrGWxBb1Gw7QAY2ATG4QX6byEaRicIOT0c/WtKd/hF5D7fldUps\nUH0ccgcHzC4mSRNpv9fQFCbshwKBgQC9fMPZhD/dP2vtfNm9VpG3m/KVR5tp9NaM\nkd31FONh2YI0DulCHddr00/uff4g86IJtWFyjq7dTbQrflQNH9GUSJXVxd7YwNf+\n4QN4K5gNdEJrv5UO9h2rNxSgx4MdL+2tm7zF6RkbFuWPA4d1bQugH/8YDPXk93fB\nuvWG9xf/lQKBgG7oDb0P13z7M8LcJHVBdMtyau0a4TCZYHFNobiTHQqKRvUcwQXa\n6MnqGRVhaFt4gOBOFIOzChMQOUp7A15Q1IuBe2lJK3UphDahxqIiiPHu4uzSysip\nO91SfzSjnBnmEpUKtVrVs97ps8LY3fCI3fX9hHoSMylIwL9plP2sB2TXAoGBAKik\nHM4/JHOtmUmg30ziege2dFylgUz4yeYLgEY6E/CnG3lnd/QPCQV+6NmyKnV7P9By\nLEs/b6OoH1zCLt4LXoQhYbEDTMUORG4kJulRqx72RJMOzAOnyVnzSJmbVzanzFnB\njG17eouggigZFPrOVRVqxKbMCiCAmoXB9fjreuFNAoGBAIF/oTKGOp7+hhX9SpRO\nf6SnFNaFw7TdcvD2n8JEY03hhWxG2FGpR16okwgWWnZwSiWw9LjZbQ+vpwGueDEB\nalaXLp4fvENkRfZemTokMjKbgoWLrqOiMU6ZhwMfGYZ/UIMJWmjFdMJ5e+3WsX/z\nF9aenHoTAETbIZUoUduij5kW\n-----END PRIVATE KEY-----\n",
+  "client_email": "hospital-workflow-automator@hospital-workflow-automator.iam.gserviceaccount.com",
+  "client_id": "110602080068335046619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hospital-workflow-automator%40hospital-workflow-automator.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
